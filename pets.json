@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Tom",
+        "age": "2",
+        "weight": "10",
+        "type": "cat",
+        "likes": "food"
+    }
+]
